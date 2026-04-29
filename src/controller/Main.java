@@ -27,6 +27,8 @@ public class Main {
  		
  		
  		System.out.println("Prueba 6");
+ 		
+ 		System.out.println("pele");
  	}
 
 }
