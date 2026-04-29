@@ -11,6 +11,9 @@ public class Main {
 		
 		System.out.println("Marta");
 
+		System.out.println("Prueba 1");
+		
+		
 	}
 
 }
