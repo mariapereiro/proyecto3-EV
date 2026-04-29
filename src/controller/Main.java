@@ -3,7 +3,6 @@ package controller;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		System.out.println("TRABAJO 3º EV");
 		
@@ -15,7 +14,9 @@ public class Main {
 		
 		System.out.println("Prueba 2");
 		
+		System.out.println("Gonzalo");
 		
+		System.out.println("Prueba1");
 	}
 
 }
