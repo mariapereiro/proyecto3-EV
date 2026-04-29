@@ -18,8 +18,12 @@ public class Main {
 		
 		System.out.println("Prueba1");
 		
+<<<<<<< HEAD
+		System.out.println("Pedro snachez hijo de puta, viva frnaco");
+=======
 		System.out.println("Prueba 3");
 		
+>>>>>>> marta
 	}
 
 }
