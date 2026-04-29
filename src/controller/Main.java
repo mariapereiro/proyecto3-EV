@@ -6,33 +6,6 @@ public class Main {
 		
 		System.out.println("TRABAJO 3º EV");
 		
-		System.out.println("Ejemplo1");
-		
-		System.out.println("Marta");
-
-		System.out.println("Prueba 1");
-		
-		System.out.println("Prueba 2");
-		
-		System.out.println("Gonzalo");
-		
-		System.out.println("Prueba1");
-		
- 
-		System.out.println("Pedro snachez hijo de puta, viva frnaco");
- 		System.out.println("Prueba 3");
-		
- 		
- 		System.out.println("Prueba 5");
- 		
- 		
- 		System.out.println("Prueba 6");
- 		
- 		System.out.println("pele");
- 		
- 		System.out.println("Prueba 7");
- 		
- 		System.out.println("hola");
  	}
 
 }
